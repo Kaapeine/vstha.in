@@ -1,3 +1,16 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://vthsa.in/'
+theme = 'hugo-bearblog'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = '🔠'
+
+enableRobotsTXT = true
+
+[permalinks]
+blogs = "/:slug/"
+writings = "/writings/:slug"
+tags = "/blog/:slug"
+
+[params]
+	description = "Vathsa's personal website"
+	hideMadeWithLine = true
+

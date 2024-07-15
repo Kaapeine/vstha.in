@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-07-15T21:42:11+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writings/symbols/</loc>
+    <lastmod>2024-07-15T21:42:11+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writings/</loc>
+    <lastmod>2024-07-15T21:42:11+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writings/cicada-sound/</loc>
+    <lastmod>2024-07-14T22:04:04+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writings/prose-poem/</loc>
+    <lastmod>2024-07-13T21:48:52+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writings/love-poem/</loc>
+    <lastmod>2024-07-13T21:47:54+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writings/purest-death/</loc>
+    <lastmod>2024-07-13T21:45:57+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writings/summers-end/</loc>
+    <lastmod>2024-07-07T21:34:05+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+</urlset>
