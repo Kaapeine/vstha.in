@@ -6,8 +6,15 @@
     <description>Recent content on 🔠</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jul 2024 21:42:11 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 22:32:55 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wasteland</title>
+      <link>http://localhost:1313/writings/wasteland/</link>
+      <pubDate>Wed, 17 Jul 2024 22:32:55 +0530</pubDate>
+      <guid>http://localhost:1313/writings/wasteland/</guid>
+      <description>Wasteland The world ends ruled by rough hard men riding&#xA;on motorcycles across deserts with&#xA;irradiated light bouncing off of chrome,&#xA;waging war to each other with chains and&#xA;diesel, the women bound by hand and fist&#xA;to do the bidding of their leather clad&#xA;masters, and men muscular at their call&#xA;to hurt or kill for them in brutal ways,&#xA;every clan vies to outdo each other&#xA;in cruelty, This is the order that man</description>
+    </item>
     <item>
       <title>Symbols</title>
       <link>http://localhost:1313/writings/symbols/</link>
@@ -21,6 +28,13 @@
       <pubDate>Sun, 14 Jul 2024 22:04:04 +0530</pubDate>
       <guid>http://localhost:1313/writings/cicada-sound/</guid>
       <description>Cicada Sound The thundering monsoon falls up against&#xA;pattering roof, steel grey exploding sound,&#xA;and I lie on the floor,&#xA;my heart pounding with release come so sweet&#xA;Rain cools the earth, the sound brings down the sky,&#xA;furious like cicada cries transcends,&#xA;and I walk through the glade,&#xA;my heart entranced with perfect divine sound</description>
+    </item>
+    <item>
+      <title>Purest Death</title>
+      <link>http://localhost:1313/writings/purest-death/</link>
+      <pubDate>Sun, 14 Jul 2024 21:45:57 +0530</pubDate>
+      <guid>http://localhost:1313/writings/purest-death/</guid>
+      <description>Purest Death Nothing left for those that seek purest death&#xA;command belief, in fire destroy your self&#xA;Why run when you can soar sky high inside,&#xA;where cruel God&amp;rsquo;s majesty supreme denied&#xA;Perfection awaits, surrender the real,&#xA;invent your own infinities, transform!</description>
     </item>
     <item>
       <title>Prose Poem</title>
@@ -37,13 +51,6 @@
       <description>Love Poem There always seems to be distance between&#xA;my self inside and what I show to all,&#xA;past so hard I&amp;rsquo;ve tried to shorten the line,&#xA;seldom ends well and a death by thousand&#xA;cuts awaits, so I stand alone waiting,&#xA;for you who can stride past the line despite&#xA;the rules, going your way till hell or worse,&#xA;see past my self, recognise I&amp;rsquo;m human,&#xA;without a calculus accept me whole.</description>
     </item>
     <item>
-      <title>Purest Death</title>
-      <link>http://localhost:1313/writings/purest-death/</link>
-      <pubDate>Sat, 13 Jul 2024 21:45:57 +0530</pubDate>
-      <guid>http://localhost:1313/writings/purest-death/</guid>
-      <description>Purest Death Nothing left for those that seek purest death&#xA;command belief, in fire destroy your self&#xA;Why run when you can soar sky high inside,&#xA;where cruel God&amp;rsquo;s majesty supreme denied&#xA;Perfection awaits, surrender the real,&#xA;invent your own infinities, transform!</description>
-    </item>
-    <item>
       <title>Summer&#39;s End</title>
       <link>http://localhost:1313/writings/summers-end/</link>
       <pubDate>Sun, 07 Jul 2024 21:34:05 +0530</pubDate>
@@ -56,6 +63,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
       <description>Hi, I&amp;rsquo;m Vathsa. I like music, computers, writing and hanging out with my favorite local alcoholics.</description>
+    </item>
+    <item>
+      <title>Code</title>
+      <link>http://localhost:1313/code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/code/</guid>
+      <description>Code #1 Cellular Automata in p5&#xA;#2</description>
     </item>
   </channel>
 </rss>

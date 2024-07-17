@@ -13,4 +13,3 @@ tags = "/blog/:slug"
 [params]
 	description = "Vathsa's personal website"
 	hideMadeWithLine = true
-
