@@ -9,8 +9,8 @@ draft = false
 The world ends ruled by rough hard men riding\
 on motorcycles across deserts with\
 irradiated light bouncing off of chrome,\
-waging war to each other with chains and\
-diesel, the women bound by hand and fist\
+waging war to each other with diesel and\
+chains, the women bound by hand and fist\
 to do the bidding of their leather clad\
 masters, and men muscular at their call\
 to hurt or kill for them in brutal ways,\
