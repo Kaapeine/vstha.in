@@ -1,10 +1,10 @@
 +++
-title = "An evening smoke"
+title = "An Evening Smoke"
 date = 2023-04-18T13:54:35+05:30
 draft = false 
 +++
 
-# An evening Smoke
+# An Evening Smoke
 
 wardrobes open deep doors\
 into shapes unfold, slick black\
