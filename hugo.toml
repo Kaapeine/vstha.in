@@ -7,7 +7,6 @@ enableRobotsTXT = true
 
 [permalinks]
 blogs = "/:slug/"
-writings = "/writings/:slug"
 tags = "/blog/:slug"
 
 [params]
