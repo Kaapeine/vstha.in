@@ -2,31 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>🔠</title>
-    <link>http://localhost:1313/</link>
+    <link>https://vthsa.in/</link>
     <description>Recent content on 🔠</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jul 2024 22:32:55 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Another</title>
-      <link>http://localhost:1313/writings/another/</link>
-      <pubDate>Sun, 28 Jul 2024 22:32:55 +0530</pubDate>
-      <guid>http://localhost:1313/writings/another/</guid>
-      <description>Wasteland Despite accounts of mist and haze, detours/ were made to turn inland towards the cove,/ the instruments read true, with heading east/ they cruised till they spotted the yellow coast/ And here the maps promised the cove with still/ under sand buried deep untouched till date/ was the great harbour of El Dorado/ Rumoured hidden within inside was gold,/ enough for all with will and grit to stand/ Posideon&amp;rsquo;s wrath, and so these men followed/ their maps to now arrive at their final mark/ Their sensors indicate the spot to strike/ with spades, and now being so close, they dig/ quick and they find, to their tired heart&amp;rsquo;s joy,/ their beliefs come true, their long awaited/ treasure precious at last within their grasp!</description>
-    </item>
+    <atom:link href="https://vthsa.in/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://vthsa.in/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://vthsa.in/about/</guid>
       <description>Hi, I&amp;rsquo;m Vathsa. I like music, computers, writing and hanging out with my favorite local alcoholics in Bangalore.</description>
     </item>
     <item>
       <title>Code</title>
-      <link>http://localhost:1313/code/</link>
+      <link>https://vthsa.in/code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/code/</guid>
+      <guid>https://vthsa.in/code/</guid>
       <description>Code #1 Cellular Automata in p5&#xA;#2</description>
     </item>
   </channel>

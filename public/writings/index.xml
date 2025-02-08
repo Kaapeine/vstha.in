@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Writings on 🔠</title>
-    <link>http://localhost:1313/writings/</link>
+    <link>https://vthsa.in/writings/</link>
     <description>Recent content in Writings on 🔠</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Jul 2024 22:32:55 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/writings/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://vthsa.in/writings/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Another</title>
-      <link>http://localhost:1313/writings/another/</link>
+      <link>https://vthsa.in/writings/another/</link>
       <pubDate>Sun, 28 Jul 2024 22:32:55 +0530</pubDate>
-      <guid>http://localhost:1313/writings/another/</guid>
+      <guid>https://vthsa.in/writings/another/</guid>
       <description>Wasteland Despite accounts of mist and haze, detours/ were made to turn inland towards the cove,/ the instruments read true, with heading east/ they cruised till they spotted the yellow coast/ And here the maps promised the cove with still/ under sand buried deep untouched till date/ was the great harbour of El Dorado/ Rumoured hidden within inside was gold,/ enough for all with will and grit to stand/ Posideon&amp;rsquo;s wrath, and so these men followed/ their maps to now arrive at their final mark/ Their sensors indicate the spot to strike/ with spades, and now being so close, they dig/ quick and they find, to their tired heart&amp;rsquo;s joy,/ their beliefs come true, their long awaited/ treasure precious at last within their grasp!</description>
+    </item>
+    <item>
+      <title>Wasteland</title>
+      <link>https://vthsa.in/writings/wasteland/</link>
+      <pubDate>Wed, 17 Jul 2024 22:32:55 +0530</pubDate>
+      <guid>https://vthsa.in/writings/wasteland/</guid>
+      <description>Wasteland The world ends ruled by rough hard men riding&#xA;on motorcycles across deserts with&#xA;irradiated light bouncing off of chrome,&#xA;waging war to each other with chains and&#xA;diesel, the women bound by hand and fist&#xA;to do the bidding of their leather clad&#xA;masters, and men muscular at their call&#xA;to hurt or kill for them in brutal ways,&#xA;every clan vies to outdo each other&#xA;in cruelty, This is the order that man</description>
     </item>
   </channel>
 </rss>
