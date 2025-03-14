@@ -1,11 +1,9 @@
 +++
 +++
 
-# Do you know where you are?
+Hi, I'm Vathsa. I'm a Software Engineer with experience in full stack development and robotics. I've worked on web apps, a browser game, motion planning & visual SLAM for drones. I love programming and learning about how computers work under the hood. Outside of work, I enjoy sci-fi, heavy music, history, creative coding, synths. I also make music occasionally.
 
-This is my place on the internet to post whatever I want. When I make something now, I can have a link that points to it, located universally. Give the link to someone in real life, and they can access that whenever they'd like anywhere anytime. Pretty neat, I think.
-
-Anyway, feel free to explore and you can reach me at msshrivathsa@gmail.com if you find anything to talk about.
+Feel free to explore and you can reach me at msshrivathsa@gmail.com if you find anything to talk about.
 \
 \
 \

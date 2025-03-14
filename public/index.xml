@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>🔠</title>
-    <link>https://vthsa.in/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on 🔠</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://vthsa.in/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://vthsa.in/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://vthsa.in/about/</guid>
-      <description>Hi, I&amp;rsquo;m Vathsa. I like music, computers, writing and hanging out with my favorite local alcoholics in Bangalore.</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>I&amp;rsquo;m a Software Engineer interested in web development and distributed systems. My current stack is React, Next.js, JavaScript/Typescript and Golang. I&amp;rsquo;ve previously worked on autonomy for robots using Python and ROS. I also built a web browser narrative game using the Pixi.js library.</description>
     </item>
     <item>
-      <title>Code</title>
-      <link>https://vthsa.in/code/</link>
+      <title>p5</title>
+      <link>http://localhost:1313/code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://vthsa.in/code/</guid>
-      <description>Code #1 Cellular Automata in p5&#xA;#2</description>
+      <guid>http://localhost:1313/code/</guid>
+      <description>p5 #1 Cellular Automata in p5&#xA;#2 Unfinished fluid sim</description>
     </item>
   </channel>
 </rss>

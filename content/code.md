@@ -1,9 +1,9 @@
 +++
-title = "Code"
+title = "p5"
 menu = "main"
 +++
 
-# Code
+# p5
 
 [#1](/code/cell/index.html) Cellular Automata in p5\
-[#2](/code/fluids/index.html)
+[#2](/code/fluids/index.html) Unfinished fluid sim
